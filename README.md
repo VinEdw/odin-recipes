@@ -8,6 +8,8 @@ It involves the following concepts:
 - HTML boilerplate
 - Headings
 - Paragraphs
+- Emphasis elements
+- Strong elements
 - Links
 - Images
 - Unordered lists
