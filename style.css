@@ -9,6 +9,9 @@ ol > li > ul {
 h1 {
   border-bottom: solid black;
   text-align: center;
+  position: sticky;
+  top: 0;
+  background-color: white;
 }
 
 h2 {
