@@ -1,3 +1,7 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 ol > li > ul {
   list-style-type: disc;
 }
