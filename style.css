@@ -6,3 +6,7 @@ h1 {
   border-bottom: solid black;
   text-align: center;
 }
+
+h2 {
+  text-decoration: underline wavy 6%;
+}
