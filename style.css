@@ -17,3 +17,8 @@ h1 {
 h2 {
   text-decoration: underline wavy 6%;
 }
+
+img {
+  width: 100%;
+  height: auto;
+}
